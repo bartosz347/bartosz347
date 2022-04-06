@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, nice to meet you! 👋
+
+<!--
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="typescript" width="40" height="40"/>
+-->
+
 
 <!--
 **bartosz347/bartosz347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
